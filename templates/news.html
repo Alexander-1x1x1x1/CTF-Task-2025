@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NetBank News</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='news.css') }}">
+</head>
+<body>
+    <div class="news-container">
+        <img src="https://img.icons8.com/ios-filled/100/2980b9/bank-building.png" alt="NetBank Logo" class="logo"/>
+        <h2>Welcome {{ user }}</h2>
+        <p>View your account:</p>
+        <a href="/account?account_id={{ account_id }}">Go to Account</a>
+        <div class="news-stream">
+            <div class="news-title">Bank News</div>
+            {% for item in news_items %}
+                <div class="news-card"><span class="news-icon">{{ item.icon }}</span> {{ item.text }}</div>
+            {% endfor %}
+        </div>
+        <a href="/chat" class="chat-link">💬 Chat with Advisor</a>
+    </div>
+</body>
+</html>

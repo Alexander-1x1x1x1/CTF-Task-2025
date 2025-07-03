@@ -1,0 +1,57 @@
+[
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Hello! Welcome to NetBank Support. How can I help you today?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Hi! I have a question about my account balance."
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Of course! Could you please provide your account number?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Sure, it's 1084541400."
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Thank you. I see your balance is <b>$5,900.00</b>. Is there anything else I can assist you with?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Can I open a SuperSaver account online?"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Absolutely! You can open a SuperSaver account directly from your dashboard. Would you like me to send you the link?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Yes, please!"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Here you go: <a href='#'>Open SuperSaver Account</a>.<br>Is there anything else I can help you with?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "No, that's all. Thank you!"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "You're welcome! Have a great day! 😊"
+    }
+]

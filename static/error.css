@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(135deg, #fa314a 0%, #fbc2eb 100%);
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.error-container {
+    background: #fff;
+    padding: 2.5rem 2rem 2rem 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(44, 62, 80, 0.15);
+    width: 400px;
+    text-align: center;
+}
+.error-container .logo {
+    width: 60px;
+    margin-bottom: 1rem;
+}
+.error-message {
+    color: #fa314a;
+    font-weight: 700;
+    margin: 1.5rem 0;
+    font-size: 1.15rem;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 1.2rem;
+    padding: 0.6rem 1.5rem;
+    background: linear-gradient(90deg, #fa314a 0%, #fbc2eb 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.08);
+}
+.back-link:hover {
+    background: linear-gradient(90deg, #c0392b 0%, #fbc2eb 100%);
+    box-shadow: 0 4px 16px rgba(44, 62, 80, 0.15);
+}

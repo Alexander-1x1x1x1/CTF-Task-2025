@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NetBank Error</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='error.css') }}">
+</head>
+<body>
+    <div class="error-container">
+        <img src="https://img.icons8.com/ios-filled/100/fa314a/bank-building.png" alt="NetBank Logo" class="logo"/>
+        <h2>404 – Account Not Found</h2>
+        <div class="error-message">
+            {{ message|safe }}
+        </div>
+        <a href="/news" class="back-link">← Back to News</a>
+    </div>
+</body>
+</html>

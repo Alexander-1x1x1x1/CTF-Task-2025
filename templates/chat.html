@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NetBank Chat Support</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='chat.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <img src="https://img.icons8.com/ios-filled/100/2980b9/bank-building.png" alt="NetBank Logo" class="logo"/>
+        <h2>Chat with NetBank Advisor</h2>
+        <div class="chat-window">
+            {% for msg in chat_messages %}
+                <div class="message {{ msg.sender }}">
+                    <span class="avatar">{{ msg.avatar }}</span>
+                    <div class="bubble">{{ msg.text|safe }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        <a href="/news" class="back-link">← Back to News</a>
+    </div>
+</body>
+</html>

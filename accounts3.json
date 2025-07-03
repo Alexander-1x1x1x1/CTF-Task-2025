@@ -1,0 +1,11 @@
+{
+    "bob": {"account_id": 1751372321, "balance": "$1,543.00", "flag": "Hint: When did WHO declares COVID-19 a pandemic"},
+    "rosa": {"account_id": 0, "balance": "$1,543.00", "flag": "xxx"},
+    "fritz": {"account_id": 1112886793, "balance": "$2,500.00", "flag": "Hint: When did the Danish capital go underground?"},
+    "alex": {"account_id": 0, "balance": "$12,865.00", "flag": "xxx"},
+    "peter": {"account_id": 1035021600, "balance": "$2,788.00", "flag": "Hint: Australian heart, Danish crown"},
+    "andy": {"account_id": 1084541400, "balance": "$5,900.00", "flag": "Flag: Flag{du_tickst_wohl_nicht_ganz_richtig}"},
+    "alice": {"account_id": 0, "balance": "$2,500.00", "flag": "xxx"},
+    "willy": {"account_id": 1583944200, "balance": "$5,900.00", "flag": "Hint: First Git Commit"}
+
+}

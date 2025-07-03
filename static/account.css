@@ -1,0 +1,98 @@
+body {
+    background: linear-gradient(135deg, #2980b9 0%, #6dd5fa 100%);
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.account-container {
+    background: #fff;
+    padding: 2.5rem 2rem 2rem 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(44, 62, 80, 0.15);
+    width: 600px;
+    max-width: 95vw;
+    text-align: center;
+}
+.account-container .logo {
+    width: 60px;
+    margin-bottom: 1rem;
+}
+.account-title {
+    color: #2980b9;
+    font-weight: 700;
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: 1px;
+}
+.account-info {
+    background: #f4f8fb;
+    border-radius: 10px;
+    padding: 1.2rem 1rem;
+    margin-bottom: 1.2rem;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.07);
+    text-align: left;
+}
+.account-info p {
+    margin: 0.7rem 0;
+    font-size: 1.08rem;
+    color: #34495e;
+}
+.balance-label {
+    color: #2980b9;
+    font-weight: 700;
+}
+.balance-value {
+    font-size: 1.4rem;
+    color: #27ae60;
+    font-weight: 700;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 1.2rem;
+    padding: 0.7rem 2rem; /* Match .chat-link */
+    background: linear-gradient(90deg, #2980b9 0%, #6dd5fa 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;    /* Match .chat-link */
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.08);
+}
+.back-link:hover {
+    background: linear-gradient(90deg, #2574a9 0%, #48b1f3 100%);
+    box-shadow: 0 4px 16px rgba(44, 62, 80, 0.15);
+}
+.flag-box {
+    margin-top: 1.2rem;
+    background: #eafaf1;
+    border: 1px dashed #27ae60;
+    border-radius: 8px;
+    padding: 0.7rem;
+    color: #27ae60;
+    font-weight: 700;
+    font-size: 1.05rem;
+    word-break: break-all;
+}
+.chat-link {
+    display: inline-block;
+    margin-top: 1.2rem;
+    padding: 0.7rem 2rem;
+    background: linear-gradient(90deg, #2980b9 0%, #6dd5fa 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.08);
+}
+.chat-link:hover {
+    background: linear-gradient(90deg, #2574a9 0%, #48b1f3 100%);
+    box-shadow: 0 4px 16px rgba(44, 62, 80, 0.15);
+}
