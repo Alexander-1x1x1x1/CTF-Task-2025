@@ -14,7 +14,9 @@
             <p><span class="balance-label">Account Owner:</span> {{ owner }}</p>
             <p><span class="balance-label">Balance:</span> <span class="balance-value">{{ balance }}</span></p>
         </div>
-        <div class="flag-box">Secret: {{ flag }}</div>
+        {% if flag %}
+            <div class="flag-box">{{ flag }}</div>
+        {% endif %}
         <a href="/news" class="back-link">← Back to News</a>
         <a href="/chat" class="chat-link">💬 Chat with Advisor</a>
     </div>

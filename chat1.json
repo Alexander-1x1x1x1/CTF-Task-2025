@@ -17,12 +17,12 @@
     {
         "sender": "customer",
         "avatar": "🙂",
-        "text": "Sure, it's 1084541400."
+        "text": "Sure, it's 1001."
     },
     {
         "sender": "advisor",
         "avatar": "🏦",
-        "text": "Thank you. I see your balance is <b>$5,900.00</b>. Is there anything else I can assist you with?"
+        "text": "Thank you. I see your balance is <b>$1,543.00</b>. Is there anything else I can assist you with?"
     },
     {
         "sender": "customer",
@@ -32,17 +32,17 @@
     {
         "sender": "advisor",
         "avatar": "🏦",
-        "text": "Absolutely! You can open a SuperSaver account directly from your dashboard. Would you like me to send you the link?"
+        "text": "Absolutely! You can open a SuperSaver account directly from your dashboard. Alice just got her SuperSaver account 1007"
     },
     {
         "sender": "customer",
         "avatar": "🙂",
-        "text": "Yes, please!"
+        "text": "Ok i will do that!"
     },
     {
         "sender": "advisor",
         "avatar": "🏦",
-        "text": "Here you go: <a href='#'>Open SuperSaver Account</a>.<br>Is there anything else I can help you with?"
+        "text": "Is there anything else I can help you with?"
     },
     {
         "sender": "customer",

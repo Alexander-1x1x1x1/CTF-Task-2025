@@ -64,7 +64,8 @@ h2 {
     background: #eaf6fb;
     color: #2980b9;
 }
-.message.customer .bubble {
+.message.customer .bubble,
+.message.eve .bubble {
     background: #eafaf1;
     color: #27ae60;
     align-self: flex-end;

@@ -1,0 +1,57 @@
+[
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Hello! Welcome to NetBank Support. How can I help you today?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Hi! I have a question about my recent transactions."
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Of course! Could you please provide your account number?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Sure, it's 20120518"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Thank you. I see your account. Are you looking for a specific transaction or your full history?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "I noticed a payment to 'GreenTech Services' yesterday. Can you tell me more about it?"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Certainly! The payment to 'GreenTech Services' was for $120.00 on July 3, 2025. Would you like to see more details or dispute this transaction?"
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "No dispute, just checking. Also, can I set up an alert for payments over $100?"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "Yes, you can set up custom alerts in your account settings. Your friend Alice recently set up a travel notification using her account ID 20250206, so you can do something similar for payment alerts."
+    },
+    {
+        "sender": "customer",
+        "avatar": "🙂",
+        "text": "Great, I'll do that. Thanks for your help!"
+    },
+    {
+        "sender": "advisor",
+        "avatar": "🏦",
+        "text": "You're welcome! If you need anything else, just let us know. Have a wonderful day! 😊"
+    }
+]

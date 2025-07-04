@@ -1,0 +1,11 @@
+{
+    "eve": {"account_id": "1837f05e00bd84bb5a2e637f54ea6990493d589e9288028759c800d3329bd15b", "balance": "$1,543.00", "flag": ""},
+    "rosa": {"account_id": "6e7fed845418770fe30d7f4ecf823cda8fffb6dcfcff70aa5593e8dd2e08fb5d", "balance": "$1,543.00", "flag": "Flag: CTF{super_secure_date_id}"},
+    "fritz": {"account_id": "705ac28e192af1735d661561b83ecc2bd55781462a2bc74b2d6a504ee7576123", "balance": "$2,500.00", "flag": ""},
+    "alex": {"account_id": "15ccdd9f6056a69f2eab97206923d1d8027d8af36c7febf694b928b1d82b70f3", "balance": "$12,865.00", "flag": ""},
+    "peter": {"account_id": "30e6658e2326d26a1d6ba0dedbb2499fea570362a1ed19e6c2949afd8a458814", "balance": "$2,788.00", "flag": ""},
+    "andy": {"account_id": "2373d2d01aec91c8947e7d10a6ebc02dd5e1ac8a93dde92183f18733b2781ebf", "balance": "$5,900.00", "flag": ""},
+    "alice": {"account_id": "4e1fc496bc8843360a4599b62ee45e8bf858db366e9c9702625d244271402ef2", "balance": "$2,500.00", "flag": "Hint:xxxxxxxxxxxxxxxxxx"},
+    "willy": {"account_id": "3ddad39a84653b5f7123889397f6720e2ebef4ee7d4e0809b508a98d6cadc038", "balance": "$5,900.00", "flag": ""}
+
+}

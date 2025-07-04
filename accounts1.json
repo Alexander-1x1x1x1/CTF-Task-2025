@@ -1,10 +1,10 @@
 {
-    "bob": {"account_id": 1001, "balance": "$1,543.00", "flag": "Hint: Can you find accounts of other users?"},
+    "eve": {"account_id": 1001, "balance": "$1,543.00", "flag": "Hint: Can you find accounts of other users?"},
     "rosa": {"account_id": 1002, "balance": "$1,543.00", "flag": "Hint: Not this one, maybe the other accounts have flags"},
     "fritz": {"account_id": 1003, "balance": "$2,500.00", "flag": "Hint: Keep on trying, you are getting closer!"},
     "alex": {"account_id": 1004, "balance": "$12,865.00", "flag": "Hint: Never give up, you are almost there!"},
-    "peter": {"account_id": 1005, "balance": "$2,788.00", "flag": "Hint: Have you read the news?"},
+    "peter": {"account_id": 1005, "balance": "$2,788.00", "flag": "Hint: Have you looked into the chat?"},
     "andy": {"account_id": 1006, "balance": "$5,900.00", "flag": "Hint: Almost there, just a few more accounts to go!"},
-    "alice": {"account_id": 1007, "balance": "$2,500.00", "flag": "Flag: Flag{netbank_first_win}"},
+    "alice": {"account_id": 1007, "balance": "$2,500.00", "flag": "Flag: CTF{netbank_first_win}"},
     "willy": {"account_id": 1008, "balance": "$5,900.00", "flag": "Hint: Slow down, you have seen enough for now!"}
 }

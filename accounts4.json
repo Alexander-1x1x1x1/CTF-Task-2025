@@ -1,0 +1,10 @@
+{
+    "eve":   {"account_id": "MjAxMjA1MTg=", "balance": "$1,543.00", "flag": ""},
+    "rosa":  {"account_id": "MjAxMzAxMjI=", "balance": "$1,543.00", "flag": ""},
+    "fritz": {"account_id": "MjAyNTAxMDE=", "balance": "$2,500.00", "flag": ""},
+    "alex":  {"account_id": "MjAwNjA2MDY=", "balance": "$12,865.00", "flag": ""},
+    "peter": {"account_id": "MjAyNDExMTM=", "balance": "$2,788.00", "flag": ""},
+    "andy":  {"account_id": "MjAyMjAzMjc=", "balance": "$5,900.00", "flag": ""},
+    "alice": {"account_id": "MjAyNTAyMDY=", "balance": "$2,500.00", "flag": "Flag: CTF{bGF5ZXJzX29mX2VuY29kaW5n}"},
+    "willy": {"account_id": "MjAwNDEyMjQ=", "balance": "$5,900.00", "flag": ""}
+}

@@ -6,14 +6,19 @@ This is a simple Flask-based CTF challenge that simulates a fake online banking 
 
 Users can log in and view their own account. However, there's an account ID in the URL which is not properly protected. By changing this ID, attackers can view other users' sensitive data, including the flag.
 
-### 🧪 Example Accounts
+### Bank 1
+Number - 1001
+### Bank 2
+Date - 20120518
+### Bank 3
+Tick - 1751372321
+### Bank 4
+base64 - MjAxMjA1MTg=
+### Bank 5
+SHA2-256 - b2c342eee7c7d70c70cda29309de5e4a22d2a3a539fc9859fa3ff0f2eff9bd47
 
-- **Username:** `alice`  
-  **Password:** `password123`  
-- **Username:** `bob`  
-  **Password:** `password123`
 
-Once logged in, visit `/account?account_id=1001` or `/account?account_id=1002`.
+
 
 ## 🚀 Running the App
 
@@ -39,7 +44,7 @@ python app.py [bankname]
 
 ## 📍 Flag Locations
 
-Each user has a "flag" in their account info shown on the `/account` page.
+One account on the `/account` page has s flag.
 
 ## 📰 News
 
@@ -47,11 +52,3 @@ News items are loaded from the corresponding `news.json` file and displayed on t
 
 ## 🛡️ Intended Exploit
 
-Manipulate the `account_id` in the URL to access accounts that don't belong to you.
-
-**Example:**
-- Log in as Alice
-- Visit `/account?account_id=1002`
-- View Bob’s flag
-
-Good luck!

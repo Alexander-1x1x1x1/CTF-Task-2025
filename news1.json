@@ -1,7 +1,7 @@
 [
     {"icon": "🆕", "text": "New account type available! SuperSaver"},
     {"icon": "🎉", "text": "Welcome to our new customer Alice!"},
-    {"icon": "🎉", "text": "Congratulations Alice for choosing our SuperSaver product 1003!"},
+    {"icon": "🎉", "text": "Congratulations Alice for choosing our SuperSaver product"},
     {"icon": "📅", "text": "We are closed on Tuesdays."},
     {"icon": "🔒", "text": "Remember to never share your password with anyone."}
 ]

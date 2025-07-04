@@ -1,0 +1,7 @@
+[
+    {"icon": "🖥️", "text": "Account identifiers have been transformed using a one-way algorithm. Brute force is your only friend."},
+    {"icon": "🧬", "text": "Legacy IDs are no longer readable—pattern analysis and clever scripting required."},
+    {"icon": "🛠️", "text": "String lengths have increased. If you notice, you know what to try next."},
+    {"icon": "📊", "text": "Frequency analysis might not help you this time."},
+    {"icon": "🔍", "text": "Enumeration just got a lot harder. Time to sharpen your tools."}
+]
