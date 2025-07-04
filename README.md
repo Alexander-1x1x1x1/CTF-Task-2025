@@ -16,7 +16,8 @@ Tick - 1751372321
 base64 - MjAxMjA1MTg=
 ### Bank 5
 SHA2-256 - b2c342eee7c7d70c70cda29309de5e4a22d2a3a539fc9859fa3ff0f2eff9bd47
-
+### Bank 5
+Brutforce hash
 
 
 
