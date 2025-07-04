@@ -12,7 +12,7 @@ body {
     padding: 2.5rem 2rem 2rem 2rem;
     border-radius: 16px;
     box-shadow: 0 8px 32px rgba(44, 62, 80, 0.15);
-    width: 600px; /* Match account page width */
+    width: 700px; /* Match account page width */
     max-width: 95vw;
     text-align: center;
 }

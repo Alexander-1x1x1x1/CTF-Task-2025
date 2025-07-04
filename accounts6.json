@@ -1,0 +1,4 @@
+{
+    "eve": {"account_id": "20120518", "balance": "$1,543.00", "flag": ""},
+    "alice": {"account_id": "20241113", "balance": "$2,500.00", "flag": "Flag: CTF{no_stress_no_seeds_no_stems_no_sticks}"}
+}

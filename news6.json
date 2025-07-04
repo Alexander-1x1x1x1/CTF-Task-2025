@@ -1,0 +1,5 @@
+[
+    {"icon": "🚨", "text": "Security update: One of the new account identifiers was accidentally leaked: 30e6658e2326d26a1d6ba0dedbb2499fea570362a1ed19e6c2949afd8a458814."},  
+    {"icon": "📊", "text": "Frequency analysis might not help you this time."},
+    {"icon": "🔍", "text": "Enumeration just got a lot harder. Time to sharpen your tools."}
+]
