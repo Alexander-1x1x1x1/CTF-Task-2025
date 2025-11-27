@@ -4,7 +4,7 @@
     "Patrick": {"account_id": "MMXXI-VIII-III", "balance": "$7,511.31", "flag": "Hint: 73th day of 1984, not counting mondays"},
     "Elon": {"account_id": "MCMXCVI-VII-XIV", "balance": "$470,826,135.291.83", "flag": "Hint: someone joined august 2 2021"},
     "Asbjørn": {"account_id": "MCMLXXXIV-III-XXV", "balance": "$2,788.00", "flag": "Hint: the finaly, find the the 1111th day after Juni 6th 1995, not counting wensdays or saurdays, not counting days of the year that are prime numbers (friday 13) or divisisible by 5, febuary and march dont count, but they push the dates of everything else"},
-    "Andy": {"account_id": "MMXXI-VIII-II=, "balance": "$5,931.92", "flag": "Hint: 0110111001100101011110000111010000100000011001000110000101111001"},
+    "Andy": {"account_id": "MMXXI-VIII-II=, "balance": "$5,931.92", "flag": "Hint: 123qwert"},
     "Laura": {"account_id": "MMIII-VIII-XXIV", "balance": "$2,539.01", "flag": "Flag: CTF{netbank_first_win}"},
     "Kris": {"account_id": "MMXIV-XI-II", "balance": "$5,909.10", "flag": "Hint: Louise, Krises twin sister registered on her 16th birthday"}
 }
