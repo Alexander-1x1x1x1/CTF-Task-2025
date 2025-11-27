@@ -1,1 +1,10 @@
-aaa
+{
+    "eve": {"account_id": "MMXII-V-XVIII=", "balance": "$43.21", "flag": "Hint: Kris was born halloween 1993 and registerd 2 days after he turned 21?"},
+    "Louise": {"account_id": "MMIX-X-XXXI=", "balance": "$1,543.77", "flag": "Hint: she is a fan of elon, she knows most about him, his adress, networth and that he signed up for the bank July 14, 1996"},
+    "Patrick": {"account_id": "MjAxMjA1MTg=", "balance": "$7,511.31", "flag": "Hint: Keep on trying, you are getting closer!"},
+    "Elon": {"account_id": "MCMXCVI-VII-XIV=", "balance": "$470,826,135.291.83", "flag": "Hint: Never give up, you are almost there!"},
+    "Asbjørn": {"account_id": "MjAxMjA1MTg=", "balance": "$2,788.00", "flag": "Hint: Have you looked in the chat?"},
+    "Andy": {"account_id": "MjAxMjA1MTg=", "balance": "$5,931.92", "flag": "Hint: Almost there, just a few more accounts to go!"},
+    "Laura": {"account_id": "aaaa=", "balance": "$2,539.01", "flag": "Flag: CTF{netbank_first_win}"},
+    "Kris": {"account_id": "MMXIV-XI-II=", "balance": "$5,909.10", "flag": "Hint: Louise, Krises twin sister registered on her 16th birthday"}
+}
