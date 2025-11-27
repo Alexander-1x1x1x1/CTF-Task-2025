@@ -5,7 +5,7 @@
     "alexander": {"account_id": 20060606, "balance": "$12,865.00", "flag": "Hint: Never give up, you are almost there!"},
     "peter": {"account_id": 20241113, "balance": "$2,788.00", "flag": "Hint: Willy got his account as a christmas gift 2004"},
     "andy": {"account_id": 20220327, "balance": "$5,900.00", "flag": "Hint: Almost there, just a few more accounts to go!"},
-    "alice": {"account_id": 20241311, "balance": "$2,500.00", "flag": "Hint:No, you are using the wrong date format."},
+    "alice": {"account_id": 20241311, "balance": "$-2,500.00", "flag": "Hint:No, you are using the wrong date format."},
     "willy": {"account_id": 20041224, "balance": "$5,900.00", "flag": "Hint: Rosa joint 7 years, 29 days later than willy, can you find her account?"}
 
 }
